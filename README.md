@@ -39,10 +39,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Drowh&theme=radical&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>
-🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drowh&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+
 📌 Закрепленные репозитории
 <div align="center">
   <a href="https://github.com/Drowh/CoolStory">
