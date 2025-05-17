@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
-📌 Закрепленные репозитории
 <div align="center">
   <a href="https://github.com/Drowh/CoolStory">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Drowh&repo=CoolStory&theme=radical" alt="CoolStory Repo" />
@@ -42,7 +41,6 @@
   </a>
 </div>
 
-📈 Активность
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drowh&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
