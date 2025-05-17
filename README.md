@@ -1,22 +1,20 @@
-<table>
-  <tr>
-    <td width="60%">
-      <h3>💻 О себе</h3>
-      <ul>
-        <li>🚀 Frontend-разработчик, создающий интуитивно понятные и эффективные веб-интерфейсы</li>
-        <li>🌱 Постоянно совершенствую навыки в React, TypeScript и современных фреймворках</li>
-        <li>🔍 Ищу возможности для сотрудничества в open-source проектах</li>
-        <li>🥅 Цель: создать свой уникальный продукт, который перевернет рынок</li>
-      </ul>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFhNDdzdGRzd3RpZXBnbm1icjdoeWUwbzV0M2gwODB6Ynd6ZnRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-      <p align="center">
+<h3 align="center">💻 О себе</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFhNDdzdGRzd3RpZXBnbm1icjdoeWUwbzV0M2gwODB6Ynd6ZnRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
+
+<ul>
+  <li>🚀 Frontend-разработчик, создающий интуитивно понятные и эффективные веб-интерфейсы</li>
+  <li>🌱 Постоянно совершенствую навыки в React, TypeScript и современных фреймворках</li>
+  <li>🔍 Ищу возможности для сотрудничества в open-source проектах</li>
+  <li>🥅 Цель: создать свой уникальный продукт, который перевернет рынок</li>
+</ul>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Drowh&style=for-the-badge" alt="Счетчик просмотров профиля" />
 </p>
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
