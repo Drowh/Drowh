@@ -12,6 +12,9 @@
     </td>
     <td align="center" width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFhNDdzdGRzd3RpZXBnbm1icjdoeWUwbzV0M2gwODB6Ynd6ZnRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+      <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Drowh&style=for-the-badge" alt="Счетчик просмотров профиля" />
+</p>
     </td>
   </tr>
 </table>
