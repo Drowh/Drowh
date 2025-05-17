@@ -1,4 +1,3 @@
-<h1 align="center">Привет 👋, я Frontend-разработчик</h1>
 <table>
   <tr>
     <td width="60%">
