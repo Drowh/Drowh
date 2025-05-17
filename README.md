@@ -52,14 +52,7 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Drowh&repo=textRPG&theme=radical" alt="textRPG Repo" />
   </a>
 </div>
-🏆 Проекты
-Интерфейс для нейросетей
-🌟 Современный веб-интерфейс на Next.js для работы с нейросетями
-🔧 Технологии: Next.js, React, TypeScript, Tailwind CSS
-✨ Особенности: Интеграция Markdown, RSS-лента, адаптивный дизайн
-Магазин книг
-🔧 Технологии: React, Redux, TypeScript
-✨ Особенности: Групповая разработка, CI/CD, тестирование
+
 📈 Активность
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drowh&theme=react-dark&hide_border=true" alt="Activity Graph" />
