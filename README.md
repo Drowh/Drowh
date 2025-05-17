@@ -64,23 +64,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drowh&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
-📫 Связаться со мной
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee" />
-</div>
 <!-- Добавляем Snake Animation -->
 <div align="center">
   <picture>
