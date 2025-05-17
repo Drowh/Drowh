@@ -47,9 +47,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drowh&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
 
 <!-- Добавляем Snake Animation -->
 <div align="center">
