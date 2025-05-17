@@ -31,14 +31,6 @@
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
-📊 GitHub Статистика
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Drowh&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Drowh&layout=compact&theme=radical" alt="Top Languages" height="165" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drowh&theme=radical&column=7&no-frame=true" alt="GitHub Trophies" />
-</div>
 
 📌 Закрепленные репозитории
 <div align="center">
