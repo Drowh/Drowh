@@ -14,7 +14,7 @@
 
 🛠️ Мой технологический стек
 <div align="center">
-Show Image
+https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 Show Image
 Show Image
 Show Image
@@ -50,7 +50,7 @@ Show Image
 📌 Pinned Repositories
 <div align="center">
   <a href="https://github.com/Drowh/CoolStory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drowh&repo=repo-name&theme=radical" alt="Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drowh&repo=CoolStorye&theme=radical" alt="Repo Card" />
   </a>
   <a href="https://github.com/Drowh/textRPG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Drowh&repo=repo-name&theme=radical" alt="Repo Card" />
