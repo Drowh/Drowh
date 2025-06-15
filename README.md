@@ -41,6 +41,9 @@
   <a href="https://github.com/Drowh/textRPG">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Drowh&repo=textRPG&theme=radical" alt="textRPG Repo" />
   </a>
+  <a href="https://github.com/Drowh/FrontQuiz">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Drowh&repo=FrontQuiz&theme=radical" alt="FrontQuiz Repo" />
+  </a>
 </div>
 
 
