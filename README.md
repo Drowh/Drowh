@@ -34,18 +34,6 @@
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/Drowh/CoolStory">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Drowh&repo=CoolStory&theme=radical" alt="CoolStory Repo" />
-  </a>
-  <a href="https://github.com/Drowh/textRPG">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Drowh&repo=textRPG&theme=radical" alt="textRPG Repo" />
-  </a>
-  <a href="https://github.com/Drowh/FrontQuiz">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Drowh&repo=FrontQuiz&theme=radical" alt="FrontQuiz Repo" />
-  </a>
-</div>
-
 
 <!-- Добавляем Snake Animation -->
 <div align="center">
